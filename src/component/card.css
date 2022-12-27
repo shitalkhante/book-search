@@ -1,0 +1,25 @@
+.card{
+    width: 300px;
+    height: 400px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: flex-end;
+    padding: 20px 3px 15px 7px;
+    border-radius: 5px;
+}
+#title{
+    /* width: ; */
+    box-sizing: inherit;
+    background-color: rgb(39, 38, 38);
+    color: white;
+    mix-blend-mode: hard-light;
+}
+h2{
+    margin-block: 0.5em;
+    font-size: 3em;
+    text-transform: uppercase;
+}
